@@ -99,7 +99,7 @@ multilingual-chatbot/
 
 ## 👤 Author
 
-Developed by Dhanamurthy
+Developed by **Dhanamurthy P**
 
 Jeppiaar Engineering College – Department of Artificial Intelligence and Data Science
 
