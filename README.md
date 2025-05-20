@@ -97,8 +97,10 @@ multilingual-chatbot/
 
 ---
 
-👤 Author
+## 👤 Author
+
 Developed by Dhanamurthy
+
 Jeppiaar Engineering College – Department of Artificial Intelligence and Data Science
 
 ## 📜 License
